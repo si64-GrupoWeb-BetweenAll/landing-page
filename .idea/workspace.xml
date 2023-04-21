@@ -5,10 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46705ae0-5f64-4d5d-aedf-8f731a17a587" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/landing-page.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Apple_Store.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/BA-logo.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/BetweenAll-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/BetweenAll-logo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Busca_evento.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Comprar_entradas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Crear_eventos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Evento.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Evento2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Exposicion.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Exposicion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Fiesta.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Fiesta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Google_Play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Linkedin-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/TICKET.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Teatro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Youtube_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/appleicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/auditorium.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/boleto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/circulo-morado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/concierto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/concierto1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/concierto2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/concierto3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/equipo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/eventos-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/facebook-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/flecha-morada.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/imgIos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/imgandroid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/imglanding3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/iniciar-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/instagram_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/nosotros.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/organizacion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/palomitasmaiz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/personas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/playicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/socio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/socio2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/testimonio1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/testimonio2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/testimonio3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/twitter-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/whatsapp_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/youtubelogo.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/styles/estilos.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -20,8 +66,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -46,9 +92,8 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Documentos/ciclo 6/Arquitectura de aplicaciones web/proyecto/landing-page",
+    "last_opened_file_path": "D:/Documentos/ciclo 6/Arquitectura de aplicaciones web/Landing PAGE/landing-page",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -71,6 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682054045557</updated>
       <workItem from="1682054047299" duration="391000" />
+      <workItem from="1682055957425" duration="305000" />
     </task>
     <servers />
   </component>

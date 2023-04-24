@@ -475,4 +475,136 @@ button p{
 
 }
 
+/*dashboard*/
 
+#dashboard {
+    background-color:  #f0f1f4;
+}
+
+#dashboard .container{
+    padding: 100px 20px;
+    justify-items: center;
+}
+
+.card{
+    justify-content: center;
+    align-items: center;
+}
+
+#dashboard h3{
+    text-align: center;
+    color: #661970
+}
+
+#dashboard p{
+    text-align: center;
+}
+
+/*footer*/
+footer p {
+    font-size: 13px;
+}
+
+footer {
+    font-family: 'Poppins', sans-serif;
+    background-color: #bca0cf;
+}
+
+footer h3 {
+    font-size: 12px;
+    color: black;
+}
+
+.contacto-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: center;
+}
+
+.contacto-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+
+.footer-group {
+    padding: 10px 40px;
+}
+.footer-group-bottom{
+    display: flex;
+    padding: 0 0;
+    justify-content: space-evenly;
+}
+
+.sns{
+    display: flex;
+    flex-direction: row;
+    margin-left: 50vw;
+    justify-content: space-evenly;
+}
+
+.botones button div{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.sns img{
+    width: 25px;
+    height: 25px;
+    margin-right: 20px;
+    margin-top: 7px;
+}
+.sns p{
+    margin-right: 15px;
+}
+.line {
+    max-width: 98%;
+    height: 2px;
+    background: #A32DE3;
+    margin: 10px auto;
+    border-radius: 5px;
+}
+.container-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 25px;
+}
+header {
+    position: fixed;
+    width: 100%;
+    background-color: #A32DE3;
+    background-image: -moz-linear-gradient( 135deg, rgba(28, 0, 35, 0.8) 0%,rgba(104, 7, 117, 0.8) 100%);
+    background-image: -webkit-linear-gradient( 135deg, rgba(28, 0, 35, 0.8) 0%, rgba(104, 7, 117, 0.8) 100%);
+    background-image: -ms-linear-gradient( 135deg, rgba(28, 0, 35, 0.8) 0%, rgba(104, 7, 117, 0.8) 100%);
+    background-image: linear-gradient( 135deg, rgba(28, 0, 35, 0.8) 0%, rgba(104, 7, 117, 0.8) 100%);
+}
+
+header.logo {
+    margin: 0;
+    padding: 25px 30px;
+}
+
+header nav {
+
+    flex-direction: row;
+}
+
+header a {
+    padding: 5px 12px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    color: whitesmoke;
+
+}
+
+header a:hover{
+    color: rgb(0, 0, 0);
+}

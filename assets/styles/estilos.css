@@ -157,3 +157,114 @@ button p{
     height: 200px;
     margin: 5%;
 }
+
+/Sieres-socio/
+
+#sieres-socio{
+    background-color: #bca0cf;
+}
+
+#sieres-socio h3{
+    text-align: center;
+    padding-right: 30px;
+    color: #661970
+}
+
+#sieres-socio .container{
+    text-align: left;
+    padding: 100px 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#sieres-socio .si-eres-socio{
+    display: flex;
+    flex-direction: column;
+}
+
+.si-eres-socio li{
+    padding: 10px 0px;
+    width: 28em;
+}
+
+#sieres-socio ul li {
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#sieres-socio img {
+    width: 20px;
+    height: 20px;
+    margin: 0 2%;
+}
+
+#sieres-socio ul{
+    margin-left: 50px;
+}
+
+#sieres-socio h2{
+    text-align: left;
+    margin-top: 0px;
+}
+
+#sieres-socio .img-container{
+    background-image: url("../images/socio.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 500px;
+    width: 400px; 
+}
+
+/enterate 2/
+
+
+#enterate-2 {
+    text-align: center;
+    padding: 5% 10%;
+}
+
+#enterate-2 p {
+    text-align: center;
+    padding: 0px 20px;
+    color: #f0f1f4;
+}
+
+#enterate-2 .carta{
+    text-align: center;
+    background-position: center center;
+    background-size: cover;
+    padding: 50px 0px;
+    margin: 30px;
+    border-radius: 5px;
+    color: white;
+}
+
+#enterate-2 .carta:first-child{
+    background-image: linear-gradient(
+            0deg,
+            rgba(0,0,0,0.5),
+            rgba(0,0,0,0.5)
+    )
+    ,url("../images/testimonio3.png");
+}
+
+#enterate-2 .carta:nth-child(2){
+    background-image: linear-gradient(
+            0deg,
+            rgba(0,0,0,0.5),
+            rgba(0,0,0,0.5)
+    )
+    ,url("../images/testimonio2.png");
+}
+
+#enterate-2 .carta:nth-child(3){
+    background-image: linear-gradient(
+            0deg,
+            rgba(0,0,0,0.5),
+            rgba(0,0,0,0.5)
+    )
+    ,url("../images/testimonio1.png");
+
+}

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46705ae0-5f64-4d5d-aedf-8f731a17a587" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/Apple_Store.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/BA-logo.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/BetweenAll-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/BetweenAll-logo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Busca_evento.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Comprar_entradas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Crear_eventos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Evento.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Evento2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Exposicion.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Exposicion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Fiesta.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Fiesta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Google_Play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Linkedin-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/TICKET.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Teatro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Youtube_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/appleicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/auditorium.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/boleto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/circulo-morado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/concierto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/concierto1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/concierto2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/concierto3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/equipo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/eventos-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/facebook-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/flecha-morada.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/imgIos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/imgandroid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/imglanding3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/iniciar-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/instagram_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/nosotros.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/organizacion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/palomitasmaiz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/personas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/playicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/socio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/socio2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/testimonio1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/testimonio2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/testimonio3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/twitter-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/whatsapp_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/youtubelogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/styles/estilos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Oir3gFrPlJF53y4bADDCDoUa0c" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Documentos/ciclo 6/Arquitectura de aplicaciones web/Landing PAGE/landing-page",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documentos\ciclo 6\Arquitectura de aplicaciones web\proyecto\landing-page" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46705ae0-5f64-4d5d-aedf-8f731a17a587" name="Changes" comment="" />
+      <created>1682054045557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682054045557</updated>
+      <workItem from="1682054047299" duration="391000" />
+      <workItem from="1682055957425" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

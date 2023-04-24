@@ -158,6 +158,100 @@ button p{
     margin: 5%;
 }
 
+/*Quienes somos*/
+
+#quienes-somos {
+    padding: 5% 10%;
+    background-color: #f0f1f4;
+}
+.qs-img{
+    background-image: url("../images/nosotros.jpg");
+    width: 25vw;
+    height: 25vw;
+    background-size: cover;
+}
+.container-quienes-somos {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.container-quienes-somos p {
+    text-align: left;
+    padding: 20% 15%;
+}
+
+.img-container {
+    background-size: cover;
+    object-fit: cover;
+    width: 80%;
+    height: 80%;
+}
+
+#quienes-somos .container{
+    justify-items: center;
+}
+#quienes-somos .container-quienes-somos{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+#quienes-somos p{
+    font-size: 1.75vw;
+    margin-top: 0px;
+    text-align: justify;
+}
+
+
+/*Sieres-cliente*/
+
+#sieres-cliente {
+    background-color: #bca0cf;
+}
+
+#sieres-cliente .container{
+    text-align: left;
+    padding: 100px 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#sieres-cliente .si-eres-cliente{
+    display: flex;
+    flex-direction: column;
+}
+
+.si-eres-cliente li{
+    padding: 10px 0px;
+    width: 28em;
+}
+
+#sieres-cliente ul li {
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#sieres-cliente img {
+    width: 20px;
+    height: 20px;
+    margin: 0 2%;
+}
+
+#sieres-cliente h2{
+    margin-top: 0px;
+}
+
+#sieres-cliente .img-container{
+    background-image: url("../images/Evento2.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 500px;
+    width: 400px; 
+}
 
 /*Beneficios*/
 
@@ -380,3 +474,5 @@ button p{
     ,url("../images/testimonio1.png");
 
 }
+
+

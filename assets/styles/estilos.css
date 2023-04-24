@@ -1,3 +1,5 @@
+
+
 * {
     box-sizing: border-box;
 }
@@ -134,7 +136,7 @@ button p{
 
 #hero h1 {
     color: white;
-    font-size: 3.5em;
+    font-size: 2.8em;
 }
 
 #hero h3 {
@@ -607,4 +609,194 @@ header a {
 
 header a:hover{
     color: rgb(0, 0, 0);
+}
+
+@media(max-width: 1200px) {
+
+    header{
+        position:static;
+    }
+    
+    .container-header {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    header nav {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        padding: 25px;
+    }
+
+    .clientes img{
+        display: none;
+    }
+
+    #hero h1 {
+        color: white;
+        font-size: 2em;
+    }
+
+    /* Quienes Somos */
+
+    #quienes-somos {
+        padding-bottom: 13% ;
+    }
+    .container-quienes-somos{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #quienes-somos p{
+        font-size: 1.25em;
+        margin-top: 0px;
+        text-align: center;
+        padding: 1.5em;
+    }
+    .qs-img{
+        background-image: url("../images/nosotros.jpg");
+        width: 20em;
+        height: 20em;
+        background-size: cover;
+        align-items: center;
+
+    }
+
+    /* Si eres cliente */
+    
+    #sieres-cliente h2{
+        font-size: 2.3em;
+    }
+
+    #sieres-cliente li{
+        font-size: 0.75em;
+    }
+
+    #sieres-cliente .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 60px 25px;
+    }
+
+    #siers-cliente .img-container{
+        background-image: url("../images/Evento2.jpg");
+        background-size: cover;
+        background-position: center center;
+        height: 50px;
+        width: 10px; 
+    }
+
+    /* Beneficios */
+
+    .container-beneficios{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #beneficios {
+        text-align: center;
+        padding: 0 10% ;
+    }
+
+    #beneficios img {
+        width: 20px;
+        height: 20px;
+        margin: 0 2.5%;
+    }
+
+    #beneficios .mod{
+        padding-top: 50px;
+    }
+    #beneficios ul li p {
+        color: black;
+        font-size: 0.75em;
+    }
+    
+    .col-beneficios{
+        padding-bottom: 30px;
+        padding-top: 30px;
+    }
+    .col-beneficios li{
+        padding: 10px 0.5em;
+        width: 28em;
+    }
+
+    #beneficios .grids{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #beneficios .grids img{
+        display: flex;
+        background-size:auto;
+        width: 30%;
+        height: 37%;
+        margin: 0;
+
+    }
+
+    #beneficios .carta{
+        width: auto;
+    }
+
+    .carta{
+        display: flex;
+        flex-direction: column ;
+        padding: 80px;
+        align-items: center;
+    }
+
+    #beneficios h4{
+        font-size: 1.2em;
+    }
+
+    /* Si eres Socio */
+    
+    #sieres-socio .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 60px 25px;
+    }
+
+    #siers-socio .img-container{
+        background-image: url("../images/socio.jpg");
+        background-size: cover;
+    }
+
+    #sieres-socio h2{
+        font-size: 2em;
+        text-align: center;
+        margin-top: 0px;
+    }
+
+    #sieres-socio li{
+        font-size: 0.75em;
+    }
+
+    #sieres-socio ul{
+        margin-left: 0px;
+    }
+
+    #sieres-socio h3{
+        font-size: 1.5em;
+        padding-right: 0px;
+    }
+
+    /*---------------------------*/
+    footer p {
+        font-size: 9px;
+    }
+
+    .sns{
+        display: none;
+    }
+
+    .contacto-1 {
+        justify-content: center;
+    }
+
 }
